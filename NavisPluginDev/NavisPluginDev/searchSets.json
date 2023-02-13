@@ -1,0 +1,80 @@
+{
+  "searchSets": [
+
+    {
+      "category": "Element",
+      "property": "Type",
+      "condition": "Contains",
+      "value": "M_Footing-Rectangular-1800 x 1200 x 450mm",
+      "name": "Footings",
+      "identifier": "1800x1200x450"
+
+    },
+    {
+      "category": "Element",
+      "property": "Type",
+      "condition": "Contains",
+      "value": "M_Footing-Rectangular-2400 x 1200 x 450mm",
+      "name": "Footings",
+      "identifier": "2400x1200x450"
+
+    },
+    {
+      "category": "Element",
+      "property": "Type",
+      "condition": "Contains",
+      "value": "Concrete Beam -Rectangular 650 x 1200mm",
+      "name": "Beams",
+      "identifier": "650x1200"
+
+    },
+    {
+      "category": "Element",
+      "property": "Type",
+      "condition": "Contains",
+      "value": "Concrete Beam -Rectangular 800 x 1600mm",
+      "name": "Beams",
+      "identifier": "800x1600"
+
+    },
+    {
+      "category": "Element",
+      "property": "Type",
+      "condition": "Contains",
+      "value": "Concrete Rectangular Column 500 x 1000mm",
+      "name": "Columns",
+      "identifier": "500x1000"
+    }
+
+
+
+  ],
+  "levelSets": [
+    {
+      "category": "Item",
+      "property": "Layer",
+      "condition": "Contains",
+      "value": "1",
+      "name": "Level",
+      "identifier": "L1"
+    },
+    {
+      "category": "Item",
+      "property": "Layer",
+      "condition": "Contains",
+      "value": "2",
+      "name": "Level",
+      "identifier": "L2"
+    },
+    {
+      "category": "Item",
+      "property": "Layer",
+      "condition": "Contains",
+      "value": "3",
+      "name": "Level",
+      "identifier": "L3"
+    }
+
+  ]
+
+}
